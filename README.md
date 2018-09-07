@@ -21,3 +21,5 @@ Important terms :
 >* Two things : Apply know principles filtered over decades, use feedback to reshape and create new principles.
 >* Learning by Example, Doing, Reflection.
 >* Peer Learning, Collaborative learning, learning by teaching, Communities of practice.
+>* Context-sensitve computing : Equipping user interfaces with historical, geographical,or others forms of contextual knowledge.
+>* 
