@@ -16,7 +16,7 @@ Important terms :
 >>* 1. Research
 >>* 2. Design.
 
-##### Lesson 2 :
+##### Lesson 2 and 3:
 >* Design : An initiative process of needfinding, prototyping, evaluating and revising.
 >* Two things : Apply know principles filtered over decades, use feedback to reshape and create new principles.
 >* Learning by Example, Doing, Reflection.
