@@ -1,4 +1,5 @@
 # HCI Notes CS6750
+#### "CS6750 is a journey, not a destination" -Ralph Waldo Emerson
 Course goals : To design effective interactions between humans and computers
 
 
@@ -16,3 +17,7 @@ Important terms :
 >>* 2. Design.
 
 ##### Lesson 2 :
+>* Design : An initiative process of needfinding, prototyping, evaluating and revising.
+>* Two things : Apply know principles filtered over decades, use feedback to reshape and create new principles.
+>* Learning by Example, Doing, Reflection.
+>* Peer Learning, Collaborative learning, learning by teaching, Communities of practice.
